@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
-![header](https://capsule-render.vercel.app/api?text=Wellcome!!%20Sungmin%20Git)
+<div align="center">
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Wellcome!!%20Sungmin%20Git)
+</div>div
   ### Hi there 👋
 
 <!--
