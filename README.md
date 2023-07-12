@@ -1,8 +1,15 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Wellcome!!%20Sungmin%20Git)
-</div>div
-  ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Wellcome!!)
+
+####  :wave: Hi there this is Sungmin Github 👋
+
+
+<br/>
+<br/>
+</div>
+
+
 
 <!--
 **LionH2ad/LionH2ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
