@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving)
+![header](https://capsule-render.vercel.app/api?text=Wellcome!!%20Sungmin%20Git)
+  ### Hi there 👋
 
 <!--
 **LionH2ad/LionH2ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
