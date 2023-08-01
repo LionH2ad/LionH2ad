@@ -9,7 +9,7 @@
 <br/>
 </div>
 
-
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LionH2ad&show_icons=true&theme=dark)
 
 <!--
 **LionH2ad/LionH2ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
